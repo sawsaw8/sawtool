@@ -1,0 +1,16 @@
+{
+  "Author": "sawsaw",
+  "Name": "sawtool",
+  "InternalName": "sawtool",
+  "AssemblyVersion": "0.0.0.0",
+  "Description": "Automate move to flag, etc.",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 9,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "",
+  "Punchline": "saw's tools",
+  "AcceptsFeedback": true
+}

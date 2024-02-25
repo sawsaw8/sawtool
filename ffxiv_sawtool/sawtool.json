@@ -1,0 +1,9 @@
+{
+  "Author": "sawsaw",
+  "Name": "sawtool",
+  "Punchline": "saw's tools",
+  "Description": "Automate move to flag, etc.",
+  "InternalName": "sawtool",
+  "ApplicableVersion": "any",
+  "IconUrl": ""
+}
